@@ -1024,5 +1024,28 @@
     "status": "looking for jobs",
     "graduationDate": "06-01-2021",
     "lastUpdateDate": "20-02-2021"
+  },
+   {
+    "id": 50,
+    "roles": ["alumni"],
+    "name": "ember blooming",
+    "email": "ipoljupci@gmail.com",
+    "photo": "/static/alumni/photos/ember.png",
+    "pdfCV": "/static/alumni/cv/ember.pdf",
+    "github": "https://github.com/ember-b-Moss",
+    "linkedin": "https://www.linkedin.com/in/ember-blooming-a0b5311b6/",
+    "skills": [
+      "JS",
+      "React",
+      "Python",
+      "Node.js",
+      "HTML5",
+      "CSS3",
+      "MySQL",
+      "Jupyter Notebook"  
+    ],
+    "status": "looking for jobs",
+    "graduationDate": "06-03-2021",
+    "lastUpdateDate": "29-04-2021"
   }
 ]
